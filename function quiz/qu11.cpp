@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+void printGoodMorning() {
+    cout << "Good Morning!";
+}
+
+int main() {
+    printGoodMorning();
+    return 0;
+}
